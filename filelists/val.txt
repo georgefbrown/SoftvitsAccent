@@ -1,0 +1,2 @@
+./dataset/44k/Geo/DECIDED_2.wav
+./dataset/44k/Geo/SUMMER_VIBE_4.wav
